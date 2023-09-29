@@ -12,10 +12,10 @@ Overview:
 Here are the images of the project:
 
 The home page:
-
+![image](https://github.com/hari3100/HR-Support-System/assets/115133374/43caa29d-18fd-4011-a805-fdd0eb2b9025)
 
 Attrition page:
-![Uploading image.png…]()
+
 
 Performance page:
 ![image](https://github.com/hari3100/HR-Support-System/assets/115133374/a836b7f7-2f3f-434b-860e-6791cd8f9ccc)
