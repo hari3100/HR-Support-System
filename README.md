@@ -12,7 +12,7 @@ Overview:
 Here are the images of the project:
 
 The home page:
-![image](https://github.com/hari3100/HR-Support-System/assets/115133374/edab86ca-71ce-4a43-ac97-08523336dd89)
+
 
 Attrition page:
 ![Uploading image.png…]()
@@ -27,8 +27,7 @@ Dashboard:
 ![image](https://github.com/hari3100/HR-Support-System/assets/115133374/1ea98a3b-6ff6-4857-805e-bb73dcf99317)
 
 Chatbot:
-![Uploading image.png…]()
-
+![image](https://github.com/hari3100/HR-Support-System/assets/115133374/edab86ca-71ce-4a43-ac97-08523336dd89)
 
 
 
