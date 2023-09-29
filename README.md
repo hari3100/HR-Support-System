@@ -15,7 +15,7 @@ The home page:
 ![image](https://github.com/hari3100/HR-Support-System/assets/115133374/43caa29d-18fd-4011-a805-fdd0eb2b9025)
 
 Attrition page:
-
+![image](https://github.com/hari3100/HR-Support-System/assets/115133374/96db6114-70c6-483b-978a-7198d9c00b37)
 
 Performance page:
 ![image](https://github.com/hari3100/HR-Support-System/assets/115133374/a836b7f7-2f3f-434b-860e-6791cd8f9ccc)
