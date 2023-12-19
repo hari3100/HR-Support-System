@@ -2,6 +2,8 @@ HR Support System - Data Corp: >
 
 Welcome to the HR Support System project developed by Harikrishnan Nair and Aniket Gajare, Priya Randive, Mohit Sharma, and Rahul Tripathi for the Ganesh Utsav Coding Competition 2023 at IT Vedant Institute.
 
+My Contribution: Creating the chatbot in its entirety using google dialogflow. 
+
 Link for the project: https://hrsupport-data-detective.streamlit.app/
 
 Overview:
